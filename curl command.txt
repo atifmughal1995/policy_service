@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST http://127.0.0.1:8000 -d "{\"customer_income\": 1000, \"customer_debt\": 300, \"payment_remarks_12m\": 0, \"payment_remarks\": 1, \"customer_age\": 18}"
